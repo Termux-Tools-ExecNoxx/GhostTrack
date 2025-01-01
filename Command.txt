@@ -1,0 +1,18 @@
+🔻  PHONE NUMBER
+       &
+ IP TRACKER TOOL 🔺
+_
+ TERMUX COMMAND
+   ↓↓↓↓↓↓↓↓↓↓↓
+    
+    apt update
+    apt upgrade
+   pkg install git
+   pkg install python
+   pkg install python3
+   git clone        https://github.com/HunxByts/GhostTrack.git
+    ls 
+    cd GhostTrack
+    ls 
+    pip3 install -r requirements.txt
+    python3 GhostTR.py
